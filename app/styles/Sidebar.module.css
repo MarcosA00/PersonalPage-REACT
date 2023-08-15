@@ -1,0 +1,23 @@
+.sidebar {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 32%;
+    float: right; 
+}
+
+.siderTitle {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    line-height: 10px;
+    color: #333;
+    background: url(../img/lines.png) repeat-x;
+}
+
+.siderSpan{
+    background: white;
+    padding: 5px;
+}
+
+.siderImg{
+    width: 100%;
+}

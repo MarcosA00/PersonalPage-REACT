@@ -1,0 +1,4 @@
+.clearFix{
+    float: none;
+    clear: both;
+}
