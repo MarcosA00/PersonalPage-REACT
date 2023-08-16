@@ -3,9 +3,17 @@
   padding: 0%;
   padding-top: 5px;
   padding-bottom: 2px;
-  background-attachment: fixed;
   list-style: none;
   background: url('./img/rojo.jpg');
+  background-attachment: fixed;
+}
+
+.theme {
+  position: fixed;
+  top: 40%;
+  background: rgba(51, 51, 51, 0.5);
+  width: 50px;
+  height: 100px;
 }
 
 .global {
@@ -16,4 +24,5 @@
   background: white;
   box-shadow: 0px 0px 2px gray;
   height: 1000px;
+  background-attachment: fixed;
 }

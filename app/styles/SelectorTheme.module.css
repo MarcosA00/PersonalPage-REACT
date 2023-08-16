@@ -1,0 +1,32 @@
+.selectorTheme {
+    position: fixed;
+    top: 40%;
+    background: rgba(51, 51, 51, 0.5);
+    width: 50px;
+    height: 100px;
+}
+
+.toRed,
+.toGreen,
+.toBlue {
+    width: 25px;
+    height: 25px;
+    border: 1px solid white;
+    display: block;
+    margin: 0px auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.toRed {
+    background: #CA3413;
+}
+
+.toGreen {
+    background: #235E3D;
+}
+
+.toBlue {
+    background: #1F87C4;
+}
